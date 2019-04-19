@@ -8,3 +8,4 @@
 ##### matplotlib
 ##### scipy
 ##### scikit-learn
+##### SymPy 
