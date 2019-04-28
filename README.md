@@ -10,6 +10,6 @@
 ##### SymPy 
 
 ### Machine learning techniques include,
-#### k nearest neighbor (knn)
+#### k nearest neighbors (knn)
 #### linear regression
 
