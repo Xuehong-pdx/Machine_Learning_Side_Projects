@@ -9,7 +9,7 @@
 ##### scikit-learn
 ##### SymPy 
 
-### Machine learning algorithms include,
+### Machine learning techniques include,
 #### k nearest neighbor (knn)
 #### linear regression
 
