@@ -12,4 +12,5 @@
 ### Machine learning techniques include,
 #### k nearest neighbors (knn)
 #### linear regression
+#### logistic regression
 
