@@ -13,4 +13,5 @@
 #### k nearest neighbors (knn)
 #### linear regression
 #### logistic regression
+#### K-means clustering
 
