@@ -14,4 +14,4 @@
 #### linear regression
 #### logistic regression
 #### K-means clustering
-
+#### decision tree
