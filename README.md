@@ -15,3 +15,4 @@
 #### logistic regression
 #### K-means clustering
 #### decision tree
+#### random forest
