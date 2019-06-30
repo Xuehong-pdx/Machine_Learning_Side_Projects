@@ -16,3 +16,4 @@
 #### K-means clustering
 #### decision tree
 #### random forest
+#### deep learning
